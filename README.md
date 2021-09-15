@@ -1,0 +1,5 @@
+# The ping bot to take down texas
+this is a little project i made designed to take down the texas anti-abortion website. the site itself is genuinely terrible so this was designed with nobel intents. that being said, its very good at what it does. if you have multiple instances of this then you could be more effective at taking down their servers. there is also a more complicated version of the same thing in the side.py file if youd like to run that instead. but in short, they do the exact same thing with one providing more data for logs than the other.
+
+# Do your part
+im not exactly telling anyone to do anything. just saying that if a server is pinged enough then theres the chance it will go down for a period of time. if youd like to run this yourself, you can run the python script yourself. it needs time, requests, and datetime to run. and a simple pip install should install these. alternatively, if you have another environemt to install and run this script on (IE: Raspberry Pi, repl, github, ect), then you should be able to run it with minimal issues.
